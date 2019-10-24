@@ -1,5 +1,5 @@
 .elementor-127 .elementor-element.elementor-element-6a4bbf23 > .elementor-container {max-width: 1140px;}
-.elementor-127 .elementor-element.elementor-element-6a4bbf23:not(.elementor-motion-effects-element-type-background), .elementor-127 .elementor-element.elementor-element-6a4bbf23 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://xao.hzsh.xyz/wp-content/uploads/2019/10/study_cover.jpg");background-repeat: no-repeat;background-size: cover;}
+.elementor-127 .elementor-element.elementor-element-6a4bbf23:not(.elementor-motion-effects-element-type-background), .elementor-127 .elementor-element.elementor-element-6a4bbf23 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("/wp-content/uploads/2019/10/study_cover.jpg");background-repeat: no-repeat;background-size: cover;}
 .elementor-127 .elementor-element.elementor-element-6a4bbf23 > .elementor-background-overlay {background-color: #504992;opacity: .8;transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-127 .elementor-element.elementor-element-6a4bbf23 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 200px 0px 200px 0px;}
 .elementor-127 .elementor-element.elementor-element-1f71ebfd > .elementor-widget-container {box-shadow: 12px 15px 36px 0px rgba(0,0,0,.46);}
@@ -136,7 +136,7 @@
 .elementor-127 .elementor-element.elementor-element-18845c42 {text-align: center;}
 .elementor-127 .elementor-element.elementor-element-18845c42 .elementor-image img {max-width: 100%;opacity: 1;}
 .elementor-127 .elementor-element.elementor-element-5b36e58b > .elementor-container {max-width: 1140px;}
-.elementor-127 .elementor-element.elementor-element-5b36e58b:not(.elementor-motion-effects-element-type-background), .elementor-127 .elementor-element.elementor-element-5b36e58b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://xao.hzsh.xyz/wp-content/uploads/2019/10/study-footer.jpg");}
+.elementor-127 .elementor-element.elementor-element-5b36e58b:not(.elementor-motion-effects-element-type-background), .elementor-127 .elementor-element.elementor-element-5b36e58b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("/wp-content/uploads/2019/10/study-footer.jpg");}
 .elementor-127 .elementor-element.elementor-element-5b36e58b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 85px 0px 120px 0px;}
 .elementor-127 .elementor-element.elementor-element-5b36e58b > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-127 .elementor-element.elementor-element-25f4afd2 {text-align: center;}
